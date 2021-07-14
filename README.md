@@ -1,5 +1,5 @@
 # A Tinder like website for dogs
-## Beautiflu UI for a dogs Website
+## Beautiful Responsive UI for a dogs Website
 Screenshot 1:
 ![Screenshot (1417)](https://user-images.githubusercontent.com/70708619/125635050-546033cf-bc0f-4c2f-af62-6577e2bc87cc.png)
 
